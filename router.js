@@ -24,7 +24,7 @@
  async function render(key,push=false){
   const token=++generation;
   try{
-   if(!cache.has(key)){const r=await fetch('views/'+key+'.json?v=authored-work-20261103');if(!r.ok)throw Error(r.status);cache.set(key,await r.json());}
+   if(!cache.has(key)){const r=await fetch('views/'+key+'.json?v=editorial-20261103');if(!r.ok)throw Error(r.status);cache.set(key,await r.json());}
    if(token!==generation)return;
    const view=cache.get(key);document.querySelector('video')?.pause();
    document.body.innerHTML=view.body;document.body.dataset.direction=key;document.body.classList.remove('modal-open');

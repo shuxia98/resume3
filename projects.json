@@ -3,16 +3,28 @@
     "title": "小药师 · 把松弛感带进日常",
     "tag": "产品视觉 / 场景主图 / 电商详情",
     "category": "commerce",
-    "cover": "healing-scenes.webp",
+    "cover": "healing-scene-01.webp",
     "class": "scene-cover",
     "intro": "围绕蓝色毛绒角色，以鲜明色彩、生活场景与中英文字排，形成完整的产品展示。",
     "images": [
-      "healing-scenes.webp",
-      "healing-details.webp"
+      "healing-scene-01.webp",
+      "healing-scene-02.webp",
+      "healing-scene-03.webp",
+      "healing-scene-04.webp",
+      "healing-scene-05.webp",
+      "healing-detail-01.webp",
+      "healing-detail-02.webp",
+      "healing-detail-03.webp"
     ],
     "captions": [
-      "场景主图 · 五种生活切片",
-      "完整电商详情页"
+      "生活场景主图 01 / 05",
+      "生活场景主图 02 / 05",
+      "生活场景主图 03 / 05",
+      "生活场景主图 04 / 05",
+      "生活场景主图 05 / 05",
+      "电商详情页 01 / 03",
+      "电商详情页 02 / 03",
+      "电商详情页 03 / 03"
     ],
     "points": [
       [
@@ -37,7 +49,7 @@
     "title": "转心杯 · 把好运握在手里",
     "tag": "腾讯项目 · QQ IP 授权 / 电商详情页",
     "category": "commerce",
-    "cover": "fortune-cup.webp",
+    "cover": "fortune-cover.webp",
     "class": "long-cover",
     "intro": "以暖色与金色为主调，将产品外观、旋转玩法、工艺细节和礼赠场景组织成完整的阅读路径。",
     "images": [
@@ -133,11 +145,11 @@
   },
   {
     "title": "KARMIC · VI 与礼盒概念延展",
-    "tag": "VI / 包装概念 / AI 辅助设计",
+    "tag": "AIGC 设计尝试 / 既有 VI 应用 / 礼盒概念",
     "category": "brand",
     "cover": "karmic-family.webp",
     "class": "concept-cover",
-    "intro": "以同心圆、山水纹样与纸张材质为线索，探索从视觉识别到礼盒体验的一致表达。",
+    "intro": "以既有 KARMIC 品牌视觉为基础，尝试用 AIGC 延展纸品、礼盒及陈列场景。基础 VI 手册由其他设计师完成。",
     "images": [
       "karmic-identity.webp",
       "karmic-family.webp",
@@ -150,20 +162,20 @@
     ],
     "points": [
       [
-        "设计线索",
-        "米白、墨绿与古铜构成统一色彩关系；同心圆与山水纹样贯穿纸品、包装及产品。"
+        "创作边界",
+        "原有 KARMIC VI 手册与基础品牌识别由其他设计师完成；此处只展示本人 AIGC 辅助的概念延展。"
       ],
       [
-        "延展范围",
-        "品牌识别、卡片、手提袋、礼盒与内托布局的视觉探索。"
+        "我的尝试",
+        "围绕既有品牌色彩和符号，探索纸品、手提袋、礼盒及内托的视觉呈现。"
       ],
       [
         "项目性质",
-        "本次为 AI 辅助概念延展，未标为真实委托、打样或量产项目。"
+        "个人 AIGC 设计尝试，并非正式委托、打样或量产项目。"
       ],
       [
         "后续深化",
-        "刀版、材料工艺、尺寸公差与运输验证需要独立设计及打样，效果图不替代生产文件。"
+        "如进入生产，需要另行完成刀版、材料工艺、尺寸与打样验证。"
       ]
     ]
   },
@@ -279,6 +291,90 @@
       [
         "交付内容",
         "本页呈现单品效果、礼盒组合及场景展示图。"
+      ]
+    ]
+  },
+  {
+    "title": "PUPU 耍大刀 · 毛绒挂件视觉",
+    "tag": "文创衍生品 / 商品轮播 / 电商详情",
+    "category": "commerce",
+    "cover": "pupu-knife-cover.webp",
+    "class": "pupu-cover",
+    "intro": "围绕鲜绿毛绒角色，统一商品主图、使用场景、材质细节和购买信息的视觉表达。",
+    "images": [
+      "pupu-knife-cover.webp",
+      "pupu-knife-hero.webp",
+      "pupu-knife-design.webp",
+      "pupu-knife-story.webp",
+      "pupu-knife-spec.webp"
+    ],
+    "captions": [
+      "PUPU 耍大刀 · 商品轮播视觉",
+      "角色与日常使用场景",
+      "角色细节与佩戴方式",
+      "详情页首屏与产品玩法",
+      "规格与商品信息"
+    ],
+    "points": [
+      [
+        "项目类型",
+        "PUPU 角色文创衍生品的电商展示。"
+      ],
+      [
+        "我的职责",
+        "商品主图、轮播与详情页视觉设计；不将角色 IP 的原始创作计入本人职责。"
+      ],
+      [
+        "关键设计",
+        "以绿色毛绒、米色背景和轻松的文案语气贯穿主图、细节和场景。"
+      ],
+      [
+        "展示内容",
+        "角色展示、材质细节、佩戴场景与规格信息的精选页面。"
+      ]
+    ]
+  },
+  {
+    "title": "财神鹅 · 从摆件到手机贴",
+    "tag": "文创衍生品 / 系列商品视觉 / 电商展示",
+    "category": "commerce",
+    "cover": "pupu-goose-cover.webp",
+    "class": "pupu-cover",
+    "intro": "让同一财神鹅形象在黄铜摆件与手机贴两种载体上保持一致的祝福语气，同时让各自的材质与用途清晰可见。",
+    "images": [
+      "pupu-goose-cover.webp",
+      "pupu-goose-story.webp",
+      "pupu-goose-craft.webp",
+      "pupu-goose-spec.webp",
+      "pupu-sticker-cover.webp",
+      "pupu-sticker-story.webp",
+      "pupu-sticker-scenes.webp"
+    ],
+    "captions": [
+      "财神鹅黄铜摆件 · 商品主图",
+      "摆件详情 · 产品卖点",
+      "摆件详情 · 工艺细节",
+      "摆件详情 · 规格与购买信息",
+      "财神鹅手机贴 · 商品轮播视觉",
+      "手机贴详情 · 工艺与使用",
+      "手机贴详情 · 多场景应用"
+    ],
+    "points": [
+      [
+        "项目类型",
+        "同一文创角色下的摆件与手机贴系列商品展示。"
+      ],
+      [
+        "我的职责",
+        "两款商品的主图、轮播与详情页视觉设计；不将角色 IP 的原始创作计入本人职责。"
+      ],
+      [
+        "关键设计",
+        "延续红金节庆色与角色识别，同时分别突出黄铜工艺和随身使用场景。"
+      ],
+      [
+        "展示内容",
+        "摆件与手机贴的主图、卖点、工艺、场景和规格页面。"
       ]
     ]
   }
